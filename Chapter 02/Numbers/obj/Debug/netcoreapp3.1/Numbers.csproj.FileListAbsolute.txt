@@ -1,0 +1,11 @@
+D:\Repos\dotnet-packt\Chapter 02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+D:\Repos\dotnet-packt\Chapter 02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+D:\Repos\dotnet-packt\Chapter 02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+D:\Repos\dotnet-packt\Chapter 02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+D:\Repos\dotnet-packt\Chapter 02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+D:\Repos\dotnet-packt\Chapter 02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+D:\Repos\dotnet-packt\Chapter 02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+D:\Repos\dotnet-packt\Chapter 02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+D:\Repos\dotnet-packt\Chapter 02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+D:\Repos\dotnet-packt\Chapter 02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+D:\Repos\dotnet-packt\Chapter 02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
